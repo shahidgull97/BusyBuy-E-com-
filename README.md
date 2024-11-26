@@ -46,7 +46,7 @@ And Start the development server:- npm run dev
 
 ### Homepage
 
-![Homepage Screenshot](/images/HomePage.png)
+![Homepage Screenshot](./public/images/HomePage.png)
 Browse the product list on the homepage.
 Click the "Add to Cart" button for the desired product.
 
@@ -54,7 +54,7 @@ Click the "Add to Cart" button for the desired product.
 
 ### Cart Page
 
-![Cart Page Screenshot](/images/CartItems.png)
+![Cart Page Screenshot](./public/images/CartItems.png)
 Navigate to the Cart page.
 Use the "+" and "-" buttons to adjust item quantities.
 Click Remove to delete an item from the cart.
@@ -68,7 +68,7 @@ After successful checkout, your cart will be cleared, and the order will be adde
 
 ### Cart Page
 
-![Orders Page Screenshot](/images/Orders.png)
+![Orders Page Screenshot](./public/images/Orders.png)
 Navigate to the Orders page to see a list of completed transactions.
 
 ## Technologies Used
